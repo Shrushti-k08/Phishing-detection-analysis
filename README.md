@@ -4,8 +4,8 @@ This project focuses on the analysis of a potentially malicious website using ur
 Virustotal url analysis
 <img width="897" height="770" alt="virustotal_url_analysis" src="https://github.com/user-attachments/assets/ce5774ab-b751-46c0-9088-391986ae0e62" />  
 # What I Learned
-1)Learned how to interpret VirusTotal results instead of just checking if a URL is marked safe or unsafe
-2)Noticed how different security engines can give different verdicts for the same URL
-3)Understood that a low detection score doesn’t always mean a site is safe
-4)Gained basic confidence in analyzing suspicious links rather than blindly trusting them
+Learned how to analyze URLs using VirusTotal.
+Understood how detection engines classify threats.
+Realized that not all unsafe sites are immediately flagged.
+Importance of manual analysis alongside automated tools.
 
